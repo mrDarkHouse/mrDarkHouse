@@ -2,6 +2,8 @@
 
 ## Languages
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
+![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&logo=jenkins&message=Jenkins&label=&color=D24939&labelColor=000000)
+![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)
 
 ## Stats
 <!--
@@ -22,9 +24,11 @@
 </a>
 </p>
 
+---
 
+![Views](https://komarev.com/ghpvc/?username=mrDarkHouse)
 
-<hr/>
+---
 
 ## Now listening
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ma9xxfv1bgyeduniz7w7tfn1d&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=ma9xxfv1bgyeduniz7w7tfn1d&redirect=true)
