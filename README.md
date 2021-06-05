@@ -34,12 +34,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrDarkHouse&layout=compact&theme=midnight-purple)](https://github.com/mrDarkHouse)
 -->
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/mrDarkHouse">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=mrDarkHouse&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" />
+<img width="600em" src="https://github-readme-stats.vercel.app/api?username=mrDarkHouse&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" />
 </a>
+</br>
 <a href="https://wakatime.com/@mrDarkHouse">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrDarkHouse&theme=midnight-purple" />
+<img width="600em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrDarkHouse&theme=midnight-purple" />
 </a>
 </p>
 
