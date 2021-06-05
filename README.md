@@ -43,9 +43,9 @@
 <img width="600em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrDarkHouse&theme=midnight-purple" />
 </a>
 </p>
-
+<!--
 ---
 
 ## Now listening
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ma9xxfv1bgyeduniz7w7tfn1d&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=ma9xxfv1bgyeduniz7w7tfn1d&redirect=true)
-
+-->
