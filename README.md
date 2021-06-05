@@ -15,10 +15,10 @@
 
 <p align="center">
 <a href="https://github.com/mrDarkHouse">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=mrDarkHouse&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" />
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=mrDarkHouse&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" />
 </a>
 <a href="https://wakatime.com/@mrDarkHouse">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrDarkHouse&theme=midnight-purple" />
+<img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrDarkHouse&theme=midnight-purple" />
 </a>
 </p>
 
